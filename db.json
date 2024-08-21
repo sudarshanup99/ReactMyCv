@@ -1,0 +1,100 @@
+{ 
+    "personalDetails": {
+      "name": "Sudarshan Upadhaya",
+      "email": "sudarshanbhusal96@gmail.com",
+      "github": "https://github.com/",
+      "linkedin": "https://linkedin.com/",
+      "medium": "https://medium.com/",
+      "phone": "9840401321"
+    },
+    "summary": "Hardworking, Good Communication Skills, Love to bike",
+    "experience": [
+      {
+        "jobTitle": "Apprenticeship Garage Program",
+        "company": "INSPIRE Nepal",
+        "startDate": "Aug 2024",
+        "endDate": "Jun 2025",
+        "responsibilities": [
+          "Collaborated with a multidisciplinary team to co-design and develop technology solutions addressing social, economic, and environmental challenges.",
+          "Participated in workshops and discussions, gaining hands-on experience in DevOps, Agile practices, and industry research methodologies.",
+          "Contributed to the research and development of sustainable technology initiatives under the guidance of industry experts and academic experts from UK."
+        ]
+      },
+      {
+        "jobTitle": "Data Analyst",
+        "company": "Microport Academy",
+        "startDate": "Jun 2023",
+        "endDate": "Sep 2023",
+        "responsibilities": [
+          "Performed data exploratory data analysis and supported the training of data using pandas/numpy and libraries.",
+          "Helped strengthen the speed of data. Also performed the scraping and crawling of data from the web through requests and beautiful soup."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "projectName": "Ecommerce App",
+        "keyFeatures": [
+          "Secure registration and login with JWT (Authentication), Admin interface for managing products.",
+          "Marketplace for users to create schedules (Shopping Cart), Admin dashboard for orders (Order management)."
+        ],
+        "technologies": ["React.js", "Node.js", "Express.js", "MongoDB"]
+      },
+      {
+        "projectName": "TechnoNepal App",
+        "keyFeatures": [
+          "Authentication, Client Registration, and User Profile Management."
+        ],
+        "technologies": ["JavaScript", "JS React", "JS Node.js"]
+      }
+    ],
+    "trainingCertifications": [
+      {
+        "title": "MERN Stack",
+        "issuer": "Darkship Education",
+        "date": "2023",
+        "details": [
+          "The MERN stack is a collection of JavaScript-based technologies used for building web applications. MERN stands for MongoDB, Express.js, React.js, and Node.js.",
+          "Gained practical skills in full-stack JavaScript development with a unified language."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc. CSIT",
+        "institution": "Vedas College",
+        "location": "Kathmandu, Nepal",
+        "startDate": "Aug 2021",
+        "endDate": "Present",
+        "details": [
+          "Subjects: Python, ASP.NET, PHP, Data Structures/Algorithms, Object-Oriented Programming (Java)."
+        ]
+      },
+      {
+        "degree": "High School",
+        "institution": "Gaurishankar Jalakoti Jyoti Divya Vidyashram",
+        "location": "Kathmandu, Nepal",
+        "startDate": "July 2016",
+        "endDate": "Feb 2016",
+        "details": []
+      },
+      {
+        "degree": "SLC",
+        "institution": "Xavier Academy",
+        "location": "Kathmandu, Nepal",
+        "startDate": "Apr 2016",
+        "endDate": "Jun 2018",
+        "details": []
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Backend Development",
+      "Node.js",
+      "Version Control: Git"
+    ]
+  }
+  
